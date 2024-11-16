@@ -1,0 +1,6 @@
+.video_iframe{
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    width: 515px;
+}

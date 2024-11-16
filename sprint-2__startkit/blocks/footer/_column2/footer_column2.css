@@ -1,0 +1,7 @@
+.footer_column2{
+    display: flex;
+    flex-basis: 711px;
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: left;
+  }

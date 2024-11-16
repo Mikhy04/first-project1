@@ -1,0 +1,7 @@
+.digits{
+    position: relative;
+    width: 100vw;
+    min-height: 600px;
+    max-height: 756px;
+    margin: 100px 0;
+  }
